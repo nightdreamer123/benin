@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="Style/Style-B.css" />
+        <title>JustinChee</title>
+    </head>
+    <body>
+    <div  id="container">
+        <div id="logo">
+            <a href="/"><img src="images/CstBuffs.png" alt="CST Buffs" /></a>
+        </div>
+        <h1>Linda Carter</h1>
+        <img class="person" src="images/JustinChee.jpg" alt="Justin Chee" />
+        <div id="bio">
+            <p>Justin was born and raised in Vancouver BC. Ever since an early age, he's had an obsession with
+              games and stories. They were able to make him smile, laugh, get sad, and sometimes they should left
+              him in awe. It was no surprise that he grew up with an artistic yearning. He's dabbled in serval
+              mediums and is now trying to take it to an interactive medium. Stories and games were the
+              tools that had sculpted Justin to be who is today. </p>
+            <p>Justin can be reached at chee_justin@hotmail.com</p>
+        </div>
+    </div>
+    </body>
+</html>
