@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="Style/Style-B.css" />
+        <title>Jonathan Chu</title>
+    </head>
+    <body>
+    <div  id="container">
+        <div id="logo">
+            <a href="/"><img src="images/CstBuffs.png" alt="CST Buffs" /></a>
+        </div>
+        <h1>Linda Carter</h1>
+        <img class="person" src="images/JonathanChu.jpg" alt="Jonathan Chu" />
+        <div id="bio">
+            <p> Born in Argentina, and live there for around 10 years to later move to Mexico for other 10 years and finally 
+            stay in Canada up to this day. 
+                Very enthusiastic when it comes to videogame as well as computers. I joined the Computing Department
+                at BCIT where he hopes to graduate with a Diploma or something even higher. There is not a definite answer
+                as for what he wants to learn yet but is eager to learn about it. </p>
+            <p>Jonathan can be reached at jonathan_chu1988@hotmail.com</p>
+        </div>
+    </div>
+    </body>
+</html>
